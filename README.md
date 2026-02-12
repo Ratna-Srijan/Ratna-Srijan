@@ -1,8 +1,8 @@
 # Hi, I'm Ratna Srijan 👋
 
 🎓 3rd Year Computer Science Student  
-💻 Backend Developer focused on Spring Boot & Java  
-📚 Currently learning: Dependency Injection, REST APIs, Bean Lifecycle  
+💻 Backend Developer | Spring Boot & Java  
+📚 Currently deepening my understanding of Dependency Injection, REST APIs, and Bean      Lifecycle
 🚀 Building strong backend fundamentals step by step  
 
 ---
