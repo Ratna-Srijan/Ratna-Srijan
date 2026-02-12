@@ -2,7 +2,7 @@
 
 🎓 3rd Year Computer Science Student  
 💻 Backend Developer | Spring Boot & Java  
-📚 Currently deepening my understanding of Dependency Injection, REST APIs, and Bean      Lifecycle
+📚 Currently deepening my understanding of Dependency Injection, REST APIs, and Bean            Lifecycle
 🚀 Building strong backend fundamentals step by step  
 
 ---
