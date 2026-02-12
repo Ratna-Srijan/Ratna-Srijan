@@ -14,7 +14,7 @@
 
 - Java
 - Spring Boot
-- MySQL
+- PostgresSQL
 - Git & GitHub
 - REST APIs
 
